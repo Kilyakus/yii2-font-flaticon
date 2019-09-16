@@ -1,5 +1,5 @@
 <?php
-namespace kilyakus\fonts;
+namespace kilyakus\flaticons;
 
 class FlatIconsAsset extends \yii\web\AssetBundle
 {
