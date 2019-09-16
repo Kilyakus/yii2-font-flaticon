@@ -8,7 +8,6 @@
             "email": "aleksandr.kilyakov@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "kilyakus\\flaticons\\": "src"
